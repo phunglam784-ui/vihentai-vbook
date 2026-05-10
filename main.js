@@ -1,4 +1,4 @@
-const BASE_URL = 'const BASE_URL = 'https://vihentai.xxx';
+const BASE_URL = 'const BASE_URL = 'https://vi-hentai.pro';
 
 async function search(keyword, page) {
   const res = await fetch(`${BASE_URL}/search?query=${keyword}`);
