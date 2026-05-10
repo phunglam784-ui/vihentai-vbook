@@ -1,1 +1,13 @@
-
+{
+  "name": "vihentai",
+  "author": "Lam",
+  "version": "1.0.0",
+  "source": "https://vihentai.xxx",
+  "icon": "https://vihentai.xxx/favicon.ico",
+  "description": "Nguồn vihentai cho vBook",
+  "language": "vi",
+  "contentRating": "18+",
+  "typeSource": "manga",
+  "baseUrl": "https://vihentai.xxx",
+  "script": "main.js"
+}
