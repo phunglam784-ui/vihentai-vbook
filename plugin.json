@@ -2,12 +2,12 @@
   "name": "vihentai",
   "author": "Lam",
   "version": "1.0.0",
-  "source": "https://vi-hentai.pro/",
-  "icon": "https://vi-hentai.pro//favicon.ico",
+  "source": "https://vi-hentai.pro",
+  "icon": "https://vi-hentai.pro/favicon.ico",
   "description": "Nguồn vihentai cho vBook",
   "language": "vi",
   "contentRating": "18+",
   "typeSource": "manga",
-  "baseUrl": "https://vihentai.xxx",
+  "baseUrl": "https://vi-hentai.pro",
   "script": "main.js"
 }
